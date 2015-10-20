@@ -1,0 +1,2 @@
+curl -k -w "  CODE: %{http_code}\n" -X POST -H "Content-Type: application/json" --user "8ac60cf5-f8ce-4de9-a9f7-1cb66c2a63f1:5d58e0d514f04795b11ca8a008782268" https://speed.savitechnology.com/ -d '{"message": "Test from Savi NOC L1", "sentAt": "2015-10-03 04:15"}'
+
